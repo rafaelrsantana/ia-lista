@@ -1,0 +1,15 @@
+historiadecredito,divida,garantia,renda,risco
+ruim,alta,nenhuma,baixa,alto
+desconhecida,alta,nenhuma,media,alto
+desconhecida,baixa,nenhuma,media,moderado
+desconhecida,baixa,nenhuma,baixa,alto
+desconhecida,baixa,nenhuma,alta,baixo
+desconhecida,baixa,adequada,alta,baixo
+ruim,baixa,nenhuma,baixa,alto
+ruim,baixa,adequada,alta,moderado
+boa,baixa,nenhuma,alta,baixo
+boa,alta,adequada,alta,baixo
+boa,alta,nenhuma,baixa,alto
+boa,alta,nenhuma,media,moderado
+boa,alta,nenhuma,alta,baixo
+ruim,alta,nenhuma,media,alto
